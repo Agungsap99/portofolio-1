@@ -1,0 +1,16 @@
+[
+    {
+        "School": "SMAN 1 Ungaran",
+		"logo": "images/logosma.png",
+		"major":"MIPA",
+        "year": "2020 - 2023",
+		"description": "-"
+    },
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Sarjana Terapan Teknik",
+        "year": "2023 - Sekarang",
+		"description": "Mahasiswa semester 6 jurusan Teknologi Rekayasa Elektronika dengan IPK saat ini 3.62 dari 4.00"
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "name": "Dwi Agung Saputro( ꦡꦮꦶꦵꦄꦒꦸꦁꦱꦥꦸꦠꦿꦺꦴ ) - Student Electronic Engineering",
+    "description": "Mahasiswa Teknologi Rekayasa Elektronika (D4) yang berdedikasi dan berpikiran maju dengan ketertarikan kuat pada Internet of Things (IoT) dan embedded systems. Memiliki fondasi yang solid dalam integrasi perangkat keras-lunak, mikrokontroler, serta pengembangan sistem cerdas. Terbukti mampu menjembatani konsep teori dengan solusi teknik praktis melalui berbagai proyek laboratorium dan eksperimen teknis. Berkomitmen untuk terus belajar dan mengikuti tren terbaru di bidang otomasi serta konektivitas, dengan tujuan memanfaatkan keahlian teknik elektronika untuk menciptakan solusi IoT inovatif yang mampu menjawab tantangan di dunia nyata.",
+    "profileImage": "Images/agung.jpg",
+    "email": "saputroagung746@gmail.com",
+    "phone": "+62 (822) 2048 3013",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://Instagram.com/in/sap.agung69"
+        },
+		        {
+            "platform": "Github",
+            "url": "https://github.com/Agungsap99/portofolio.git"
+        },
+        {
+            "platform": "X",
+            "url": "https://X.com/Agung_Saputro99"
+        }
+    ],
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 60},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 80},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 75},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 75},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 70}
+    ]
+}

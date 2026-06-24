@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Robot Naik Tangga dengan Kontrol Suara",
+        "year": "2025",
+        "fund": "Rp700.000 ",
+        "partner": "Mechatronic Tim",
+        "role": "Programer",
+        "description": "Robot yang difungsikan untuk menyelesaikan rintangan menaiki tangga yang dikontrol menggunakan suara dari jarak jauh.",
+        "image": "images/robot.png",
+        "link": "https://example.com/robot"
+    },
+    {
+        "title": "TrainerKit Water Level Kontrol",
+        "year": "2025",
+        "partner": "Sitem Kontrol Tim",
+        "role": "Hardware Design",
+        "description": "Alat untuk pelajaran praktikum sistem kendali kontrol water level menggunakan berbagai logika ",
+        "image": "images/wt.png",
+        "link": "https://example.com/water-level"
+    }
+]
